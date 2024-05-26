@@ -2,7 +2,7 @@
 
 ## Данные
 
-![image](16_3_SQL_books/scheme_1589269096.png)
+![image](https://github.com/vvbrus/ya_praktikum_da/blob/181d875d5b5dad562cb911dc9cc7c49846edfd14/16_3_SQL_books/scheme_1589269096.png)
 
 
 ## Задача
