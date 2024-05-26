@@ -1,7 +1,7 @@
 # Анализ данных сервиса вопросов и ответов о программировании StackOverflow 
 
 ## База данных
-![bd](https://github.com/Lima82/Data_analyst_projects/blob/Practicum/SQL_advanced/sql_advanced_data.png)
+![bd](https://github.com/vvbrus/ya_praktikum_da/blob/509bde1ac20b2fc3db526807fd1ecf08aca0a648/10_advanced_SQL/sql_advanced_data.png)
 
 В базе данных хранятся данные о постах за 2008 год, но в таблицах вы найдёте информацию и о более поздних оценках, которые эти посты получили:
 
