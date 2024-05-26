@@ -2,7 +2,7 @@
 
 ## Данные
 
-![image](https://github.com/brusvv/brusvv-temp-yap-da/assets/55412131/13e367f5-861c-4d3b-a313-0211a246d125)
+![image](16_3_SQL_books/scheme_1589269096.png)
 
 
 ## Задача
