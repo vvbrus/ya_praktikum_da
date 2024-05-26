@@ -16,7 +16,7 @@
 
 
 ## Сертификат об обучении:
-![Certificate](https://github.com/brusvv/ya_praktikum_da/blob/c5e8038970c163d2dba760d98bc1ce94bb2ad304/Documents/Certificates/YaP_DA_ru/1715873293516-1c55e1ee-afcf-483a-b03a-7b6cef467d4b_2.png)
+![Certificate](Yandex_Practicum_modules_list.png)
 
 ## Проекты:
 
